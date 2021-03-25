@@ -94,7 +94,6 @@ document.querySelector(".tombol").addEventListener('click', function () {
 });
 
 
-
 document.querySelector('.hati').addEventListener('click', function () {
   confetti();
   const teks = document.getElementById('teks');
